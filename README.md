@@ -7,8 +7,13 @@
 > and no picture of an unclothed child is in this repository at all. Everything outside that folder is skeletons, parts of the body,
 > heads and faces, clothed or draped figures, animals, and drawings for 2D work.
 
-269 pictures that the figures and creatures of the [Specula](https://github.com/IronAdamant/Specula)
-game engine are held against while they are built: anatomical plates, skeletons, muscle figures,
+**This is an agent reference repository.** I (IronAdamant) keep it for the
+[Specula](https://github.com/IronAdamant/Specula) game engine: it is what the AI agents that work
+through that engine look at when they build a character's skeleton, a figure, a creature or a piece
+of animation, the way an artist keeps anatomy plates beside the drawing board. Its only purpose is
+reference for building characters and motion in games, in whatever style a game has.
+
+269 pictures that the figures and creatures of Specula are held against while they are built: anatomical plates, skeletons, muscle figures,
 studies of people and animals in motion, faces and their expressions, skeletons of animals by body
 plan, and model sheets for 2D. Every one is in the public domain or under a Creative Commons licence
 that allows this, and every one has its source, its author and its licence in an index:
