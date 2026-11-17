@@ -13,12 +13,14 @@ through that engine look at when they build a character's skeleton, a figure, a 
 of animation, the way an artist keeps anatomy plates beside the drawing board. Its only purpose is
 reference for building characters and motion in games, in whatever style a game has.
 
-269 pictures that the figures and creatures of Specula are held against while they are built: anatomical plates, skeletons, muscle figures,
-studies of people and animals in motion, faces and their expressions, skeletons of animals by body
-plan, and model sheets for 2D. Every one is in the public domain or under a Creative Commons licence
-that allows this, and every one has its source, its author and its licence in an index:
-[INDEX.md](INDEX.md) for the first 110 and [INDEX-round-2.md](INDEX-round-2.md) for the 159 that
-followed.
+357 pictures that Specula's figures, creatures and effects are held against while they are built:
+anatomical plates, skeletons, muscle figures, studies of people and animals in motion, faces and their
+expressions, skeletons of animals by body plan, model sheets for 2D, and, for the engine's effects and
+physics, fire, lightning, explosions, light and dark, things breaking, and weapons with the plates of
+the old fencing masters. Every one is in the public domain or under a Creative Commons licence that
+allows this, and every one has its source, its author and its licence in an index:
+[INDEX.md](INDEX.md) for the first 110, [INDEX-round-2.md](INDEX-round-2.md) for the next 159 and
+[INDEX-round-3.md](INDEX-round-3.md) for the 88 after them.
 
 ## Why this exists
 
@@ -53,6 +55,13 @@ differs is written down and mended in the figure's own numbers.
 | `4-motion/` | 43 | Muybridge: clothed or draped people on stairs, lifting and sitting; horses, oxen, goats, deer, dogs, cats, a lion, an elephant, camels, a kangaroo, baboons; pigeons, an eagle, a vulture, ostriches |
 | `5-creatures/` | 61 | A skeleton and other views for each body plan: dog, lion, horse, cow, goat, deer, bear, elephant, ostrich and other birds, bat, pterosaur, lizard, crocodile, snake, fish, insects, spiders |
 | `6-2d/` | 15 | Walk-cycle key poses, turnaround and model sheets, jointed and cut-out figures |
+| `7-fire-smoke/` | 17 | Candle and burner flames, flame colours by fuel, camp fires, wildfire smoke from the air and from orbit, a fireball, the first frames of a nuclear test |
+| `8-lightning/` | 11 | Strikes by night, a stepped leader in slow motion, trees and sand a strike has marked |
+| `9-explosion/` | 7 | Test detonations on land and at sea, shock waves made visible, a crater, glass breaking |
+| `10-light-dark/` | 10 | Twilight, moonlight, a sodium lamp, the night sky, light through mist, the colour of light by temperature |
+| `11-shape-bounce/` | 1 | A bouncing ball caught by a strobe |
+| `12-destruction/` | 17 | Buildings brought down, earthquake damage, rubble, cracked and spalled concrete, broken rock and glass, a split log |
+| `13-weapons-fencing/` | 25 | Museum swords, a sabre, rapiers, a dagger, an axe, a mace, a halberd; plates of guards, cuts and grips from the fencing treatises of the 15th to 17th centuries |
 | `ADULTS-ONLY/1-whole-body/` | 28 | Whole unclothed figures of men and women, living and as muscle figures, front, side and back; two builds side by side; a proportion canon |
 | `ADULTS-ONLY/2-weak-areas/` | 3 | The hips from the front and the side; the shoulders on a whole figure |
 | `ADULTS-ONLY/4-motion/` | 25 | Muybridge: men and women walking, running, jumping, climbing, carrying and rising, unclothed or in a loincloth |
@@ -68,9 +77,11 @@ clothed: the faces of infants and children in Darwin's plates of expressions (18
 
 ## Sources and licences
 
-All 269 files come from Wikimedia Commons. **200 are in the public domain, 31 are CC0, 30 are CC BY**
-(23 under 4.0, six under 3.0, one under 2.0) **and 8 are CC BY-SA** (five under 4.0, three under 3.0).
-None is non-commercial or no-derivatives.
+All 357 files come from Wikimedia Commons, or from the Metropolitan Museum of Art's Open Access
+collection for some of the weapons. **Every one is in the public domain, CC0, CC BY or CC BY-SA**, and
+none is non-commercial or no-derivatives. Of the first two sets (269 files), 200 are in the public
+domain, 31 are CC0, 30 are CC BY and 8 are CC BY-SA; the third index counts its own set, in which the
+share-alike licences are commoner (photographs of fire, storms and ruins).
 
 Each index has a row for every picture: the file, what it shows, the view, the subject, the Commons
 page it came from with its author or collection and year, the licence with the link that states it,
@@ -88,8 +99,10 @@ for each file, not guessed.
 The sets were gathered and indexed by Grok at the owner's request, and placed here by Claude, who
 looked at every picture outside the adults-only folder before it went in, moved to `ADULTS-ONLY/` the
 unclothed ones and the men in loincloths that were not already kept apart (24 of the first set, 7 of
-the second), and changed their paths in the indexes to match. Nothing else in either index is changed
-from its delivery but a dated note under its first paragraph.
+the second), and changed their paths in the indexes to match. Of the third set, three photographs that
+show mostly people at a disaster or at work were not placed, and its folders are numbered on from the
+earlier ones. Each index has a dated note under its first paragraph saying what was changed from its
+delivery.
 
 **If a row is wrong** (a licence, an author, a source), please open an issue: the picture will be
 corrected or removed.
