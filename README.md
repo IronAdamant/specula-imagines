@@ -1,6 +1,6 @@
 # Specula imagines: reference pictures
 
-> **Adults only (18+) for one folder.** [`ADULTS-ONLY/`](ADULTS-ONLY/README.md) holds 52 unclothed
+> **Adults only (18+) for one folder.** [`ADULTS-ONLY/`](ADULTS-ONLY/README.md) holds 53 unclothed
 > anatomical plates, figure studies and motion studies from the 16th to the 19th century (Dürer,
 > Albinus, Richer, Stratz, Vanderpoel, Muybridge and a sculpted muscle figure). They show the whole
 > body, genitals included, because that is how anatomy and gait were recorded. Nothing here is sexual,
@@ -13,7 +13,7 @@ through that engine look at when they build a character's skeleton, a figure, a 
 of animation, the way an artist keeps anatomy plates beside the drawing board. Its only purpose is
 reference for building characters and motion in games, in whatever style a game has.
 
-358 pictures that Specula's figures, creatures and effects are held against while they are built:
+359 pictures that Specula's figures, creatures and effects are held against while they are built:
 anatomical plates, skeletons, muscle figures, studies of people and animals in motion, faces and their
 expressions, skeletons of animals by body plan, model sheets for 2D, and, for the engine's effects and
 physics, fire, lightning, explosions, light and dark, things breaking, and weapons with the plates of
@@ -21,7 +21,7 @@ the old fencing masters. Every one is in the public domain or under a Creative C
 allows this, and every one has its source, its author and its licence in an index:
 [INDEX.md](INDEX.md) for the first 110, [INDEX-round-2.md](INDEX-round-2.md) for the next 159,
 [INDEX-round-3.md](INDEX-round-3.md) for the 88 after them and [INDEX-round-4.md](INDEX-round-4.md)
-for the last 9.
+for the last 10.
 
 ## Why this exists
 
@@ -66,7 +66,7 @@ differs is written down and mended in the figure's own numbers.
 | `14-clothing-patterns/` | 2 | Flat patterns: a man's shirt of 1898 with its measurements, a bodice from a museum's study collection |
 | `ADULTS-ONLY/1-whole-body/` | 28 | Whole unclothed figures of men and women, living and as muscle figures, front, side and back; two builds side by side; a proportion canon |
 | `ADULTS-ONLY/2-weak-areas/` | 3 | The hips from the front and the side; the shoulders on a whole figure |
-| `ADULTS-ONLY/4-motion/` | 21 | Muybridge: men walking, running, jumping, climbing, carrying and rising, unclothed or in a loincloth, and one woman (his model 1, "a widow, aged thirty-five") walking and carrying; plates with matched side, front and back rows of one walk |
+| `ADULTS-ONLY/4-motion/` | 22 | Muybridge: men walking, running, jumping, climbing, carrying and rising, unclothed or in a loincloth, and one woman (his model 1, "a widow, aged thirty-five") walking and carrying; plates with matched side, front and back rows of one walk |
 
 **Still missing**, by the indexes' own account: matched front, side and back sets of slender, muscular
 and older bodies; a whole figure at three-quarter; a large open sheet of a walk cycle's key poses.
@@ -85,7 +85,7 @@ was read against every plate ([INDEX-round-2.md](INDEX-round-2.md) has the list)
 
 ## Sources and licences
 
-All 358 files come from Wikimedia Commons, or from the Metropolitan Museum of Art's Open Access
+All 359 files come from Wikimedia Commons, or from the Metropolitan Museum of Art's Open Access
 collection for some of the weapons. **Every one is in the public domain, CC0, CC BY or CC BY-SA**, and
 none is non-commercial or no-derivatives. Of the first two sets (269 files), 200 are in the public
 domain, 31 are CC0, 30 are CC BY and 8 are CC BY-SA; the third index counts its own set, in which the

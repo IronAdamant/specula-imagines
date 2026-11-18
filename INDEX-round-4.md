@@ -15,12 +15,13 @@
 > **Note added when this set was placed (2026-11-19).** The delivery had its pictures in one folder and
 > an `ADULTS-ONLY/` folder beside it; here they are in this repository's numbered folders, and the
 > paths below say where (`14-clothing-patterns/` is new). Every picture was looked at again by whoever
-> placed it. **Two plates of the delivery are not here** (10 of its 12 are): Muybridge's plates 8 and 9,
-> a slender young man walking. Their source titles him a man and nothing suggests otherwise, but his
-> age cannot be shown from the plate, and this repository keeps no unclothed figure whose subject
-> cannot be shown to be an adult. They wait for the owner's word; their pages are
-> https://commons.wikimedia.org/wiki/File:Man_in_pelvis_cloth_walking_(rbm-QP301M8-1887-008).jpg and
-> https://commons.wikimedia.org/wiki/File:Man_in_pelvis_cloth_walking_(rbm-QP301M8-1887-009).jpg.
+> placed it. Muybridge's plates 8 and 9, a slender young man walking in a loincloth, were held back
+> at first because his age could not be shown from the plate. Muybridge's own catalogue of 1887 gives
+> their models as 55 and 56, two of the athletes he describes as students or graduates "aged from
+> eighteen to twenty-four" (model 55 also runs at full speed in plate 66), and neither is one of the
+> three boys it names. Plate 8 is here now; plate 9 was here already, from an earlier set
+> (`ADULTS-ONLY/4-motion/muybridge-man-pelvis-cloth-walking-009.jpg`), so the delivery's copy of it
+> is not added twice. One plate of the delivery was taken out again: see the next note.
 > A second checker confirmed all twelve licences as stated (2026-11-18).
 
 Gap 6 (walk-cycle key-pose sheets; matched front/side/back body sets) and gap 8 (open flat patterns). Every image was opened and checked by eye on 2026-11-17 (Australia/Sydney). Licences were read from each Wikimedia Commons file page (extmetadata LicenseShortName). Downloads are no more than 1,920 px on the long side; the small originals were kept at full size. Transparent SVG renders were flattened onto white by me.
@@ -42,6 +43,7 @@ Rules: clothed or plainly adult subjects only. Unclothed or near-unclothed adult
 | File | Shows | View | Subject | Source page | Author | Licence | Date checked |
 |---|---|---|---|---|---|---|---|
 | `ADULTS-ONLY/4-motion/muybridge-pl003-man-loincloth-walking-front-back.jpg` | Plate 3 "Walking", 9 frames per row | Front row and back row (matched) | Adult man, loincloth | https://commons.wikimedia.org/wiki/File:Man_in_pelvis_cloth_walking_(rbm-QP301M8-1887-003).jpg | Eadweard Muybridge (scan: USC Digital Library) | Public domain (per file page) | 2026-11-17 |
+| `ADULTS-ONLY/4-motion/muybridge-pl008-man-loincloth-walking-side-back.jpg` | Plate 8 "Walking", 8 frames per row | Side row and back row (matched) | Adult man, loincloth | https://commons.wikimedia.org/wiki/File:Man_in_pelvis_cloth_walking_(rbm-QP301M8-1887-008).jpg | Eadweard Muybridge (USC) | Public domain | 2026-11-17 |
 | `ADULTS-ONLY/4-motion/muybridge-pl060-man-loincloth-running-side-front.jpg` | Plate 60 "Running at a half-mile gait" | Two side rows and a front row (matched) | Adult man, loincloth | https://commons.wikimedia.org/wiki/File:Man_in_pelvis_cloth_running_at_a_half-mile_gait_(rbm-QP301M8-1887-060).jpg | Eadweard Muybridge (USC) | Public domain | 2026-11-17 |
 | `ADULTS-ONLY/4-motion/wellcome-L0075726-man-walking-side-back.jpg` | Walking plate, 12 frames per row (plate number not checked) | Side row and back row (matched) | Unclothed adult man | https://commons.wikimedia.org/wiki/File:A_naked_man_walking._Collotype_after_Muybridge,_1887._Wellcome_L0075726.jpg | Eadweard Muybridge; scan Wellcome Collection | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 (credit Wellcome Collection) | 2026-11-17 |
 | `ADULTS-ONLY/4-motion/wellcome-L0075733-woman-walking-side-front-back.jpg` | Walking plate, 12 frames per row (plate number not checked) | Side, front and back rows (matched 3-view set) | Unclothed adult woman | https://commons.wikimedia.org/wiki/File:A_naked_woman_walking._Collotype_after_Muybridge,_1887_Wellcome_L0075733.jpg | Eadweard Muybridge; scan Wellcome Collection | CC BY 4.0 (credit Wellcome Collection) | 2026-11-17 |
