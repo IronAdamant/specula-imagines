@@ -1,6 +1,6 @@
 # Specula imagines: reference pictures
 
-> **Adults only (18+) for one folder.** [`ADULTS-ONLY/`](ADULTS-ONLY/README.md) holds 56 unclothed
+> **Adults only (18+) for one folder.** [`ADULTS-ONLY/`](ADULTS-ONLY/README.md) holds 61 unclothed
 > anatomical plates, figure studies and motion studies from the 16th to the 19th century (Dürer,
 > Albinus, Richer, Stratz, Vanderpoel, Muybridge and a sculpted muscle figure). They show the whole
 > body, genitals included, because that is how anatomy and gait were recorded. Nothing here is sexual,
@@ -13,14 +13,15 @@ through that engine look at when they build a character's skeleton, a figure, a 
 of animation, the way an artist keeps anatomy plates beside the drawing board. Its only purpose is
 reference for building characters and motion in games, in whatever style a game has.
 
-357 pictures that Specula's figures, creatures and effects are held against while they are built:
+367 pictures that Specula's figures, creatures and effects are held against while they are built:
 anatomical plates, skeletons, muscle figures, studies of people and animals in motion, faces and their
 expressions, skeletons of animals by body plan, model sheets for 2D, and, for the engine's effects and
 physics, fire, lightning, explosions, light and dark, things breaking, and weapons with the plates of
 the old fencing masters. Every one is in the public domain or under a Creative Commons licence that
 allows this, and every one has its source, its author and its licence in an index:
-[INDEX.md](INDEX.md) for the first 110, [INDEX-round-2.md](INDEX-round-2.md) for the next 159 and
-[INDEX-round-3.md](INDEX-round-3.md) for the 88 after them.
+[INDEX.md](INDEX.md) for the first 110, [INDEX-round-2.md](INDEX-round-2.md) for the next 159,
+[INDEX-round-3.md](INDEX-round-3.md) for the 88 after them and [INDEX-round-4.md](INDEX-round-4.md)
+for the last 10.
 
 ## Why this exists
 
@@ -52,9 +53,9 @@ differs is written down and mended in the figure's own numbers.
 | `1-whole-body/` | 20 | Skeletons front, side and back (Albinus, Vesalius, Richer, Stratz), a woman's skeleton beside a man's, labelled diagrams, the trunk's muscles |
 | `2-weak-areas/` | 45 | Neck and shoulders, hands, feet, knees, elbows, the pelvis of each sex: bones, ligaments and muscles (Albinus, Richer, Sobotta); hands at work (Muybridge); the forearm turning |
 | `3-head/` | 29 | Skulls in several views, a living head front, side and three-quarter, the head's muscles, the head's proportions (Dürer), expressions (Darwin, Duchenne, Le Brun) |
-| `4-motion/` | 43 | Muybridge: clothed or draped people on stairs, lifting and sitting; horses, oxen, goats, deer, dogs, cats, a lion, an elephant, camels, a kangaroo, baboons; pigeons, an eagle, a vulture, ostriches |
+| `4-motion/` | 45 | A walking stride as a diagram with its phases and as five photographs; Muybridge: clothed or draped people on stairs, lifting and sitting; horses, oxen, goats, deer, dogs, cats, a lion, an elephant, camels, a kangaroo, baboons; pigeons, an eagle, a vulture, ostriches |
 | `5-creatures/` | 61 | A skeleton and other views for each body plan: dog, lion, horse, cow, goat, deer, bear, elephant, ostrich and other birds, bat, pterosaur, lizard, crocodile, snake, fish, insects, spiders |
-| `6-2d/` | 15 | Walk-cycle key poses, turnaround and model sheets, jointed and cut-out figures |
+| `6-2d/` | 16 | Walk-cycle key poses, turnaround and model sheets, jointed and cut-out figures |
 | `7-fire-smoke/` | 17 | Candle and burner flames, flame colours by fuel, camp fires, wildfire smoke from the air and from orbit, a fireball, the first frames of a nuclear test |
 | `8-lightning/` | 11 | Strikes by night, a stepped leader in slow motion, trees and sand a strike has marked |
 | `9-explosion/` | 7 | Test detonations on land and at sea, shock waves made visible, a crater, glass breaking |
@@ -62,9 +63,10 @@ differs is written down and mended in the figure's own numbers.
 | `11-shape-bounce/` | 1 | A bouncing ball caught by a strobe |
 | `12-destruction/` | 17 | Buildings brought down, earthquake damage, rubble, cracked and spalled concrete, broken rock and glass, a split log |
 | `13-weapons-fencing/` | 25 | Museum swords, a sabre, rapiers, a dagger, an axe, a mace, a halberd; plates of guards, cuts and grips from the fencing treatises of the 15th to 17th centuries |
+| `14-clothing-patterns/` | 2 | Flat patterns: a man's shirt of 1898 with its measurements, a bodice from a museum's study collection |
 | `ADULTS-ONLY/1-whole-body/` | 28 | Whole unclothed figures of men and women, living and as muscle figures, front, side and back; two builds side by side; a proportion canon |
 | `ADULTS-ONLY/2-weak-areas/` | 3 | The hips from the front and the side; the shoulders on a whole figure |
-| `ADULTS-ONLY/4-motion/` | 25 | Muybridge: men and women walking, running, jumping, climbing, carrying and rising, unclothed or in a loincloth |
+| `ADULTS-ONLY/4-motion/` | 30 | Muybridge: men and women walking, running, jumping, climbing, carrying and rising, unclothed or in a loincloth; three plates with matched side, front and back rows of one walk |
 
 **Still missing**, by the indexes' own account: matched front, side and back sets of slender, muscular
 and older bodies; a whole figure at three-quarter; a large open sheet of a walk cycle's key poses.
