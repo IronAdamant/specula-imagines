@@ -1,5 +1,17 @@
 # Reference images, round four
 
+> **Nine plates taken out on 2026-11-19.** Muybridge's own *Prospectus and Catalogue of Plates* (1887)
+> gives a model's number for every plate and says who the models were. His men who walk, run and jump
+> are "students or graduates of The University of Pennsylvania, young men aged from eighteen to
+> twenty-four"; the only boys are models 27, 28 and 29 ("aged thirteen to fifteen"), and none of their
+> plates was ever here. Of the women he says that models 4 to 13, 15 and 19 are "unmarried, of ages
+> varying from seventeen to twenty-four", and of models 2 and 20 he gives no age. A woman who may have
+> been seventeen cannot be shown to be an adult, so every unclothed plate of those models is out of this
+> repository: plates 19 (model 20), 71 (model 7), 73, 76, 155 and 182 (model 8), 92 and 129 (model 2),
+> and the Wellcome photogravure V0048621 (plate 16 by its rows of ten: model 4). Their rows are taken
+> out of the tables below. The women's plates that stay are of model 1, "a widow, aged thirty-five".
+> The catalogue: https://archive.org/details/cu31924024580353 (pages 12 and 13 for the models).
+
 > **Note added when this set was placed (2026-11-19).** The delivery had its pictures in one folder and
 > an `ADULTS-ONLY/` folder beside it; here they are in this repository's numbered folders, and the
 > paths below say where (`14-clothing-patterns/` is new). Every picture was looked at again by whoever
@@ -33,6 +45,5 @@ Rules: clothed or plainly adult subjects only. Unclothed or near-unclothed adult
 | `ADULTS-ONLY/4-motion/muybridge-pl060-man-loincloth-running-side-front.jpg` | Plate 60 "Running at a half-mile gait" | Two side rows and a front row (matched) | Adult man, loincloth | https://commons.wikimedia.org/wiki/File:Man_in_pelvis_cloth_running_at_a_half-mile_gait_(rbm-QP301M8-1887-060).jpg | Eadweard Muybridge (USC) | Public domain | 2026-11-17 |
 | `ADULTS-ONLY/4-motion/wellcome-L0075726-man-walking-side-back.jpg` | Walking plate, 12 frames per row (plate number not checked) | Side row and back row (matched) | Unclothed adult man | https://commons.wikimedia.org/wiki/File:A_naked_man_walking._Collotype_after_Muybridge,_1887._Wellcome_L0075726.jpg | Eadweard Muybridge; scan Wellcome Collection | CC BY 4.0, https://creativecommons.org/licenses/by/4.0 (credit Wellcome Collection) | 2026-11-17 |
 | `ADULTS-ONLY/4-motion/wellcome-L0075733-woman-walking-side-front-back.jpg` | Walking plate, 12 frames per row (plate number not checked) | Side, front and back rows (matched 3-view set) | Unclothed adult woman | https://commons.wikimedia.org/wiki/File:A_naked_woman_walking._Collotype_after_Muybridge,_1887_Wellcome_L0075733.jpg | Eadweard Muybridge; scan Wellcome Collection | CC BY 4.0 (credit Wellcome Collection) | 2026-11-17 |
-| `ADULTS-ONLY/4-motion/wellcome-V0048621-woman-walking-side-front-back.jpg` | Walking, 10 frames per row | Side, front and back rows (matched 3-view set) | Unclothed adult woman | https://commons.wikimedia.org/wiki/File:A_woman_walking._Photogravure_after_Eadweard_Muybridge,_1887_Wellcome_V0048621.jpg | Eadweard Muybridge; scan Wellcome Collection | CC BY 4.0 (credit Wellcome Collection) | 2026-11-17 |
 
 Note: the Muybridge plates are 1887 photographs (public domain by age). The Wellcome scans are offered as CC BY 4.0 on Commons; credit "Wellcome Collection" when using them. The plate captions read "Copyright, 1887, by Eadweard Muybridge. All rights reserved", which has long expired.
